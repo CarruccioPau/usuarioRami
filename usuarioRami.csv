@@ -12,7 +12,6 @@ megusto,nombre,generos
 0,Los Vengadores,Ciencia ficción|Acción
 1,El Laberinto del Fauno,Fantasía|Drama
 1,La Lista de Schindler,Drama|Historia
-0,Interestelar,Ciencia ficción|Aventura
 0,Harry Potter y la Piedra Filosofal,Fantasía|Aventura
 0,Deadpool,Acción|Comedia
 0,Duro de Matar,Acción|Thriller
@@ -36,10 +35,8 @@ megusto,nombre,generos
 0,Los Otros,Terror|Suspense
 0,Las Aventuras de Tintín: El Secreto del Unicornio,Animación|Aventura
 0,Shrek,Animación|Comedia
-0,Mi Vecino Totoro,Animación|Fantasía
 1,300,Acción|Drama
 1,El Renacido,Aventura|Drama
-1,12 Monos,Ciencia ficción|Thriller
 0,Gladiator,Acción|Drama|Aventura
 0,El Efecto Mariposa,Ciencia ficción|Drama
 1,La Vida es Bella,Comedia|Drama
@@ -52,11 +49,9 @@ megusto,nombre,generos
 1,Bajo el Sol de la Toscana,Comedia|Drama
 1,Memento,Thriller|Misterio
 1,Inception,Ciencia ficción|Acción
-0,El Gran Lebowski,Comedia|Crimen
 0,Casablanca,Drama|Romance
 0,Spider-Man:Into the Spider-Verse,Animación|Acción
 0,Los Intocables,Crimen|Drama
-0,Moulin Rouge!,Drama|Musical|Romance
 1,La La Land,Comedia musical|Drama|Romance
 0,Tiburón,Terror|Aventura
 0,La Habitación,Drama|Thriller
@@ -74,7 +69,6 @@ megusto,nombre,generos
 0,El Club de los Cinco,Comedia|Drama
 0,El Origen,Ciencia ficción|Thriller
 0,El Maquinista,Drama|Misterio
-0,Lost in Translation,Drama|Romance
 0,8 Mile,Drama|Música
 1,12 Años de Esclavitud,Biografía|Drama|Historia
 0,Casino Royale,Acción|Aventura|Thriller
@@ -83,3 +77,9 @@ megusto,nombre,generos
 0,Naranja Mecánica,Crimen|Drama|Ciencia ficción
 0,Braveheart,Biografía|Drama|Guerra
 0,Perdida,Crimen|Drama|Misterio
+1,Iron Man,Acción|Aventura|Ciencia ficción
+1,Guardians of the Galaxy,Acción|Aventura|Ciencia ficción
+0,Black Panther,Acción|Aventura|Ciencia ficción
+1,Relatos salvajes,Comedia|Drama|Suspenso
+0,Salvar al soldado Ryan,Acción|Drama|Bélica
+0,Crepúsculo,Drama|Fantasía|Romance
